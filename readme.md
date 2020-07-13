@@ -12,7 +12,7 @@ Desenvolver um sistema para cadastro de filmes com categorias, cadastro de categ
 
 
 * Cadastro de filme.
-* Cadastro de categoria 1 ou mais.
+* Uma ou mais de uma categoria.
 
 
 #### Cadastro categoria
@@ -100,8 +100,8 @@ __start.sh__ neste arquivo você deve colocar o endereço do caminho do intepret
 
 ## Documentações dos arquivos e pasta.
 
-- [Readme de todas as Class e Métodos disponível no sistema.](https://github.com/davinyvidal/teste-desenvolvedora-junior/blob/master/class/readme.md)
-- a pasta controller fica a < regra de negócio > do sistema
+- [Readme da Class disponível no sistema.](https://github.com/davinyvidal/teste-desenvolvedora-junior/blob/master/class/readme.md)
+- A pasta controller fica a < regra de negócio > do sistema
 
 ## Diagrama do banco de dados
 
@@ -123,7 +123,7 @@ Depois de instalar, vamos rodar SQL para criar as tabelas e banco, caso você n�
 
 Script SQL para criação do banco:
 
-Em algum casos o banco e criado no sistema de gerenciamento, neste caso vefirique se já tem um banco criado
+Em alguns casos o banco é criado no sistema de gerenciamento, neste caso vefirique se já tem um banco criado.
 
 ```bash
 CREATE DATABASE `filmesDB`;
@@ -155,7 +155,7 @@ CREATE TABLE `filmes` (
 
   - /conexao/conexao.php
 
-Local com as variáveis para conexão com Banco de dados
+Local com as variáveis para conexão com Banco de dados.
 ```bash
 $servidor = ""; # nome do servidor
 $usuario = "";  # nome do usuario do banco de dados
