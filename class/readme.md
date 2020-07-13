@@ -12,7 +12,6 @@ Métodos
 
 * insertCat('nome da categoria', 'conexão db') inserir categoria.
 * insertFilme('nome do filme', 'conexao db') inserir filme.
-* insertRelacao('nome do filme', 'nome da categoria', 'conexao db') inserir a relação filme e categoria.
 * updateCatQuant('nome da categoria', 'estado', 'conexao db') update no campo quantidade da tabela categorias.
 
 #### Class consulta
