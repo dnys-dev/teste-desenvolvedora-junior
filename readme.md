@@ -1,57 +1,57 @@
 # Teste para vaga de desenvolvedora júnior
 
-## Objetivo:
+## 🚀 Objetivo:
 Desenvolver um sistema para cadastro de filmes com categorias, cadastro de categoria sem  o filme, pesquisa de categoria, pesquisa de filme por categoria ou por nome, excluir filme e categoria.
 
 
 ![Diagrama do banco de dados](./printscreen.png)
 
-## Cenários possíveis de fazer no sistema:
+## 🎥 Cenários possíveis de fazer no sistema:
 
-#### Cadastro de filme
+##### Cadastro de filme
 
 
 * Cadastro de filme.
 * Uma ou mais de uma categoria.
 
 
-#### Cadastro categoria
+##### Cadastro categoria
 
 
 * Cadastro de categoria.
 
-#### Pesquisa de categorias cadastradas
+##### Pesquisa de categorias cadastradas
 
 
 * Resultado de todas as categoria cadastrada com relação ao termo pesquisado.
 
 
-#### Pesquisa de filmes por nome ou categoria
+##### Pesquisa de filmes por nome ou categoria
 
 
 * Pesquisa por nome com resultado(s) de filme(s) cadastrado(s).
 * Pesquisa por categoria com resultado(s) de filme(s) cadastrado(s).
 
 
-#### Remover filme
+##### Remover filme
 
 
 * Remover o filme e categoria associado.
 
 
-#### Remover categoria
+##### Remover categoria
 
 * Remover categoria que não tem filme(s) associado(s).
 * Não remove categoria associado 1 ou mais filmes.
 
 
-## Requisitos
+## 🔎 Requisitos
 
 * PHP 7.X
   * Testado no PHP 7.4.7
 * MySQL
 
-## Árvore de pasta do projeto:
+## 🎫 Árvore de pasta do projeto:
 
 ```bash
 |---  class
@@ -98,12 +98,12 @@ __start.sh__ neste arquivo você deve colocar o endereço do caminho do intepret
 
 
 
-## Documentações dos arquivos e pasta.
+## ☕ Documentações dos arquivos e pasta.
 
 - [Readme da Class disponível no sistema.](https://github.com/davinyvidal/teste-desenvolvedora-junior/blob/master/class/readme.md)
 - A pasta controller fica a < regra de negócio > do sistema
 
-## Diagrama do banco de dados
+## 🧧 Diagrama do banco de dados
 
 ![Diagrama do banco de dados](./db.png)
 
@@ -111,7 +111,7 @@ __start.sh__ neste arquivo você deve colocar o endereço do caminho do intepret
 id (categorias) ->> id_categoria (filmes)
 ```
 
-## Instalação 
+## 💾 Instalação 
 
 - Instalação do PHP
 
@@ -173,18 +173,18 @@ $dir_projetc ="<local que deve ficar o endereço>"
 
 Exemplo:
 ```bash
-$dir_projetc ="I:\Github\teste-desenvolvedora-junior"
+$dir_projetc ="I:/Github/teste-desenvolvedora-junior"
 ```
-__Obs__ não colocar o \ no final do endereço.
+__Obs__ não colocar o / no final do endereço.
 
-## Lincença:
+## 📜 Lincença:
 
-#### Licença Pública Geral GNU v3.0
+####  📢 Licença Pública Geral GNU v3.0
 As permissões desta licença copyleft forte estão condicionadas a disponibilizar o código fonte completo das obras e modificações licenciadas, que incluem obras maiores usando uma obra licenciada, sob a mesma licença. Os avisos de direitos autorais e licença devem ser preservados. Os colaboradores fornecem uma concessão expressa de direitos de patente.
 
-#### Considerações finais
+#### 👩🏻 Considerações finais
 Sistema feito 💜 pela Daviny Vidal.
 
-Github @davinyvidal
+Github @github/davinyvidal
 
 Repositório Github @daninyvidal/teste-desenvolvedora-junior
