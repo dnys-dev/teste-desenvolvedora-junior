@@ -6,9 +6,5 @@ echo "\n";
 echo "Fim da operação ...";
 echo "\n";
 echo "\n";
-$opcao = readline('aperte enter para sair: ');
-
-if ($opcao == ""){
-    exit();
-}else{
-}
+$opcao = readline('aperte qualquer tecla: ');
+exit();

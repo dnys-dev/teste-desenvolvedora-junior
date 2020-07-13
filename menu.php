@@ -1,9 +1,9 @@
 <?php
 $dir_projetc ="<local que deve ficar o endereço>" . "/"; # ex: $dir_projetc ="I:\Github\teste-desenvolvedora-junior";
 
-include$dir_projetc .'connection/conexao_conn.php';
-include$dir_projetc .'./class/db.php';
-include$dir_projetc .'./function/readline.php';
+include $dir_projetc .'connection/conexao_conn.php';
+include $dir_projetc .'./class/db.php';
+include $dir_projetc .'./function/readline.php';
 
 echo "\n";
 echo "\n";

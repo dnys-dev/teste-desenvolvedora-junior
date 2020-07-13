@@ -6,7 +6,7 @@
  * @param $Conn: conexão com banco de dados.
  * 
  * internos
- *  @param int $valor : quantidade de firmes a ser sedido aquela categoria.
+ *  @param int $valor : quantidade de firmes a ser inserido na categoria.
  * 
  */
 

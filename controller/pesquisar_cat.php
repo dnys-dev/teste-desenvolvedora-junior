@@ -26,5 +26,5 @@ if ($nome_cat != ""){
 }
 
 mysqli_close($conn);
-include$dir_projetc .'controller/fim_execucao.php';
+include $dir_projetc .'controller/fim_execucao.php';
  

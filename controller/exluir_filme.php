@@ -20,4 +20,4 @@ if ($consulta->consultaFilmeId($id_filme,$conn) == 1){
 } 
 
 mysqli_close($conn);
-include$dir_projetc .'controller/fim_execucao.php';
+include $dir_projetc .'controller/fim_execucao.php';
