@@ -22,7 +22,7 @@ switch ($opcao_select) {
                 echo"Nenhum filme relacionado com este termo:  -- $nome_filme -- ";
                 echo"\n";
             }else{
-                echo"Filme(s) relacionado a pesquisa por categoria -- $nome_filme -- ";
+                echo"Filme(s) relacionado a pesquisa por categoria -- $nome_filme --";
                 echo"\n";
                 echo"\n";
                 $tabela = "F.nome_filme";
