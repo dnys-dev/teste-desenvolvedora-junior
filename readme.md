@@ -55,7 +55,7 @@ Desenvolver um sistema para cadastro de filmes com categorias, cadastro de categ
 
 ```bash
 |---  class
-|     | banco.php
+|     | db.php
 |     | readme.md
 |
 |---  function
@@ -98,11 +98,10 @@ __start.sh__ neste arquivo você deve colocar o endereço do caminho do intepret
 
 
 
-## Menu documentações dos arquivos separadamente.
+## Documentações dos arquivos e pasta.
 
 - [Readme de todas as Class e Métodos disponível no sistema.](https://github.com/davinyvidal/teste-desenvolvedora-junior/blob/master/class/readme.md)
-- [Readme do controller < regra de negócio > ](https://github.com/davinyvidal/teste-desenvolvedora-junior/blob/master/controller/readme.md)
-
+- a pasta controller fica a < regra de negócio > do sistema
 
 ## Diagrama do banco de dados
 
