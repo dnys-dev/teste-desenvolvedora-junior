@@ -123,7 +123,7 @@ Depois de instalar, vamos rodar SQL para criar as tabelas e banco, caso você n�
 
 Script SQL para criação do banco:
 
-Em alguns casos o banco é criado no sistema de gerenciamento, neste caso vefirique se já tem um banco criado.
+SQL para criar o banco de dados com o nome filmesDB
 
 ```bash
 CREATE DATABASE `filmesDB`;
