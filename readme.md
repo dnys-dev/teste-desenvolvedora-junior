@@ -1,5 +1,7 @@
 # Teste para vaga de desenvolvedora júnior
 
+![Tag informação: Linguagem PHP](https://img.shields.io/badge/Linguagem-PHP-blue) ![Tag informação: Banco de dados mysql](https://img.shields.io/badge/DB-MySQL-brightgreen) ![Tag informação: Nível do projeto - start junior](https://img.shields.io/badge/N%C3%ADvel%20do%20Projeto-Start%20(Junior)-yellow)
+
 ## 🚀 Objetivo:
 Desenvolver um sistema para cadastro de filmes com categorias, cadastro de categoria sem  o filme, pesquisa de categoria, pesquisa de filme por categoria ou por nome, excluir filme e categoria.
 
