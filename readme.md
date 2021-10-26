@@ -189,4 +189,4 @@ Sistema feito 💜 pela Daviny Vidal.
 
 Github @github/davinyvidal
 
-Repositório Github @daninyvidal/teste-desenvolvedora-junior
+Repositório Github @dnys-dev/teste-desenvolvedora-junior
